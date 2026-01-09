@@ -70,7 +70,7 @@ namespace IVJ
 
         jugador->addComponente(
             std::make_shared<CE::IBoundingBox>(
-                CE::Vector2D{32.f*1.2, 48.f*1.2}
+                CE::Vector2D{32.f*1.1, 48.f*1.1}
             )
         );
 
@@ -182,7 +182,7 @@ namespace IVJ
 
     void EscenaShaders::onRender()
     {
-        CE::Render::Get().OnClearColor(sf::Color(10, 10, 10));
+        CE::Render::Get().OnClearColor(sf::Color(196, 224, 83));
         for(auto& b : bg)
             CE::Render::Get().AddToDraw(b);
 
