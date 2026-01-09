@@ -1,0 +1,36 @@
+[Atlas_info]
+/atlas/tiles.png
+832 768
+64 64
+30 30
+[ID_matrix]
+39 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 40 c 41 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+52 c 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 14 n 54 c
+65 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 66 c 67 c
