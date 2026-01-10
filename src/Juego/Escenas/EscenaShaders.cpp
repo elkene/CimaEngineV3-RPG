@@ -70,7 +70,7 @@ namespace IVJ
 
         jugador->addComponente(
             std::make_shared<CE::IBoundingBox>(
-                CE::Vector2D{32.f*1.1, 48.f*1.1}
+                CE::Vector2D{32.f*1.f, 48.f*1.f}
             )
         );
 
